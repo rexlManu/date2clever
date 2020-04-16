@@ -1,0 +1,20 @@
+{
+    "name": "date2clever",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "node index"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "candle": "^0.4.0",
+        "chalk": "^3.0.0",
+        "cleverbot": "^1.0.1",
+        "dotenv": "^8.2.0",
+        "moment": "^2.24.0",
+        "tinder-wrapper": "^1.0.41",
+        "utf8": "^3.0.0"
+    }
+}
